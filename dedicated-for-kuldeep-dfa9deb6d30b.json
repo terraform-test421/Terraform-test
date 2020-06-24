@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dedicated-for-kuldeep",
+  "private_key_id": "dfa9deb6d30b7b0186c4c93e8e2b667148a8045f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCp47TT+D7DsuMG\nobYVEm6iWrMGS5pfpT4HQi4BBLFIolSvB1yB84tTJdquD5m5xsN9XpwFXGljCJWV\nyj/rkMG5w0bnQ44dJWeTph1wopGSH+jHM3d+sAo8XJF1I8BP+GCk4khkH9x0ePAC\nJJsjZJ+5GBTxqRc6V/Om4b45xVg3/c1TAr7NFDdWZ9KFS7UY5sVAlJcRVc9LhrWO\nyfxUY05R93tzpy1P8GQ4uV1ve856PUhL2Rr8vsmKEbTpM9/a3c0FfW7ddOZKq5Iu\nyKeNeGNOr9iKtCZb8Qwjdot8/9aPsla455fP1NkFFtx/j8C8ZFwVjVAZ6tcmXTvN\n3tGcX8oNAgMBAAECggEAAgYwLLj5bHgyHscOxfqZsVsE/r2OkENGG8ZU1hb4Rfrs\nwq1PugFAGkR28gB5e5GfJikAqsqvVPcwkXle4H+X/OhGYCTsqYAjpApEZKFqb4Ds\nU3ITfPTiTLy3A48iigFivpj7zx+XDzDN5HfYFlueUJFoiUZgIoYspVyGsvMDcLiG\nZ8M2kOxrmr1R6S9UNgXim1GwCNUzelRlg6uLJSvjGdArV7/2TvQ7WRUsT4f89e6/\nDSQ3lsNVXNa3E91/39n5Ku2PbdWOR3CC2MCKWEV+fhgH8a97pIUKEJ1lNXf34Jlm\nS1ME5sHxe/VbIANNzyY6PIa1ESRnoWdXAlGv4961gQKBgQDR3ugAzjstv0WCCiZ1\nnfcKmKKw/qjRipsH4istf1sEu7hbmv+Hf5qtQ7tJ2oR1tFONTQ1UThQAzdVt3MRN\nE6xamD+ykCKAjPxxraNvGpTnVWNl8rZpoKDT0pVXEIrJFY6pyIADWsmY9HkccnB1\ndKPnp0APdoRJAhqvOMP61/FegQKBgQDPOx5SnQGM37H19e2IFNy8q7/zLh8P+MtW\nk3jJ+aBBB6ziy3UXQqAzeAbAD64Xghhr1ycz8bAzmz6ujnvz9+EaAXfo7IeegmVh\n0uYDL54sMiwol9GAV1vD6YW2CKKTXUva/m6expCne+QpM8hK2l6lZMvWOBKNnUMN\nmqFeR+o9jQKBgFLh70nyKFjmwvKaQ5oLqnaa1RWFXPJ0BMnWPisXssBpymMTEXtX\nn6RxrVN7YviBIMYa+fqjYy72GyXqG/Q8osKcgftpBNcz1ramVncYTloV1M18TyHj\n99/vuF7L/6NuSgsvTa8FebxYQERFxbf9OoXP/XKd4ZxbomI0zuEPyxkBAoGAZ5d8\n8/1KfhqAwpx6bhFHuwT8Qlsm6fwL4a58rjKcGoX0tbbRRJxoqvHwJehwtY2yGY6H\nKV9DHrkXX3kYm3+pRi+/um8q6GD0vy8HDkaqghtembgy4T5KQCgnUDUG2DXGKqYP\ntE08mIzFJJefI1QABhvaDa8gDyyzDUTkL9YxUS0CgYBcZH1t24aau0y7qiUDBlAo\nhDoQOmO37KRXV5EZoyWK+rC7tKQP1hxRa3Cd6H2RIdJgUExc4zC9xka3nX93P5z3\nEUk7SLp8bqLq0dpuXOpFBEkVHAf4piribLQQYh5SB0UpIhOsXKCk8YEG1Ex69Yy2\ncry+QRH7pYSbsZfIrkeZpQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "synergymachines@dedicated-for-kuldeep.iam.gserviceaccount.com",
+  "client_id": "103909239649572531051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/synergymachines%40dedicated-for-kuldeep.iam.gserviceaccount.com"
+}
